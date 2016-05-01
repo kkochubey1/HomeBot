@@ -1,0 +1,28 @@
+node_modules/
+node_modules
+server/node_modules/
+*.log
+.sessionSecret
+
+.DS_Store
+
+build/
+dev/
+uploads/
+reports/
+logs/
+doc/
+test/results/
+
+# Ignore Intellij project and settings
+.idea/
+*.iml
+*.ipr
+
+#ui5lib
+*-opt-static.zip
+
+#Secret session
+.sessionSecret
+
+client/UIComposer/test/material

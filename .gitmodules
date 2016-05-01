@@ -1,0 +1,6 @@
+[submodule "Docker.Official.Image"]
+	path = Docker.Official.Image
+	url = https://github.com/kkochubey1/Docker.Official.Image.git
+[submodule "hubot-rocketchat"]
+	path = hubot-rocketchat
+	url = https://github.com/kkochubey1/hubot-rocketchat.git
